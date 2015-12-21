@@ -1,0 +1,19 @@
+{
+  "name": "wtp",
+  "private": true,
+  "version": "0.1.0",
+  "dependencies": {
+    "jspm": "^0.16.19"
+  },
+  "jspm": {
+    "dependencies": {
+      "react": "npm:react@^0.13.1",
+      "react-dom": "npm:react-dom@^0.14.3"
+    },
+    "devDependencies": {
+      "babel": "npm:babel-core@^5.8.24",
+      "babel-runtime": "npm:babel-runtime@^5.8.24",
+      "core-js": "npm:core-js@^1.1.4"
+    }
+  }
+}
